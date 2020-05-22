@@ -1,5 +1,5 @@
 const KeyManager = require('../lib/KeyManager');
-const CryptAPI = require('../lib/CryptoAPI');
+const CryptoAPI = require('../lib/CryptoAPI');
 
 const check = {
     async price(cmd) {
