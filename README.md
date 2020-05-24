@@ -1,6 +1,6 @@
 # CoinQ
 
-CoinQ CLI is a command line interface that retrieves current bitcoin + other coin values using Nomics API.
+CoinQ CLI is a command line interface that retrieves current bitcoin + other coin values using Nomics API. It is also able to adjust the currency for all of the coin values with preset of USD.
 
 ![CoinQ Snap](https://i.snipboard.io/XNUhCy.jpg)
 
